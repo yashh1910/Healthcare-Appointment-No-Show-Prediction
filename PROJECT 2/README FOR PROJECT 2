@@ -1,0 +1,91 @@
+# E-commerce Return Rate Reduction Analysis
+
+ 📌 Objective
+
+To identify key reasons why customers return products and how return rates vary across:
+
+ Product Categories
+ Regions/Locations
+ Customer Demographics (Age, Gender)
+ Marketing/Payment/Shipping Channels
+
+And to predict which orders are likely to be returned using machine learning.
+
+ 🛠 Tools Used
+
+ **Python** (Data Cleaning, Logistic Regression Prediction)
+ **Power BI** (Interactive Dashboard)
+ **Pandas, Scikit-Learn** (Python Libraries)
+
+
+ 📁 Folder Structure
+
+Ecommerce_Return_Analysis_Project/
+├── cleaned_ecommerce_data.csv
+├── high_risk_products.csv
+├── return_percent_by_category.csv
+├── return_percent_by_gender.csv
+├── return_percent_by_location.csv
+├── return_percent_by_age_group.csv
+├── return_percent_by_shipping.csv
+├── return_percent_by_payment.csv
+├── return_prediction.py
+├── Ecommerce_Return_Dashboard.pbix
+└── README.md
+
+📉 Data Analysis Performed
+
+  Return % by Category
+  Return % by Gender
+  Return % by Age Group
+  Return % by Region
+  Return % by Payment Method
+  Return % by Shipping Method
+
+All results were exported to CSV for use in Power BI dashboard.
+
+ 🤖 Machine Learning (Python)
+
+👉 Model Used:
+
+Logistic Regression (Supervised Classification)
+
+👉Target:
+
+Predict whether an order will be **Returned** or **Not Returned**
+
+👉 Output:
+
+high_risk_products.csv with **predicted return probability** for each order
+
+
+ 📊 Power BI Dashboard
+
+Dashboard Name: E-commerce Product Return Risk Dashboard
+
+ 👉Key Visuals:
+
+ Category-wise Return %
+ Gender-wise Return % (Donut)
+ Region-wise Returns (Bar/Map)
+ Age Group vs Returns (Line Chart)
+ Return % by Payment Method
+ Return % by Shipping Method
+ High-Risk Products Table**
+
+ 👉Interactivity:
+
+ Slicers for Age Group, Gender, Location, Product Category
+ Drill-through on Category to view product-level details
+
+
+📤 Deliverables
+
+ ✅ Cleaned Dataset (`cleaned_ecommerce_data.csv`)
+ ✅ Python Codebase (`return_prediction.py`)
+ ✅ High-Risk Products Prediction CSV (`high_risk_products.csv`)
+ ✅ All Analysis CSVs for Power BI
+ ✅ Interactive Dashboard (`.pbix` file)
+ ✅ README Documentation(ABOVE)
+
+
