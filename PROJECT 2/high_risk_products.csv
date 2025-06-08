@@ -1,0 +1,2 @@
+Order_ID,Product_ID,User_ID,Order_Date,Return_Date,Product_Category,Product_Price,Order_Quantity,Return_Reason,Return_Status,Days_to_Return,User_Age,User_Gender,User_Location,Payment_Method,Shipping_Method,Discount_Applied,Is_Returned,Return Probability
+ORD00006303,PROD00006303,USER00006303,2024-01-20,2023-04-20,Clothing,295.77,1,Wrong item,Returned,-275.0,18,Female,City71,Debit Card,Standard,38.35,1,0.7024630366259283
