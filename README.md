@@ -9,7 +9,7 @@ To predict patient no-shows and help optimize hospital scheduling by analyzing p
 
 ## 🛠️ Tools & Technologies
 
-- 🐍 Python (Pandas, Scikit-learn)
+-  Python (Pandas, Scikit-learn)
 - 📊 Power BI
 - 📓 Jupyter Notebook
 - 📁 Excel
@@ -63,7 +63,7 @@ Key visual insights:
 - Impact of **age**, **gender**, and **neighbourhood**
 - Slicers for custom filtering
 
-![Dashboard Sample](./) <!-- Optional: Include screenshot if hosted -->
+- <a href="https://github.com/yashh1910/Healthcare-Appointment-No-Show-Prediction/blob/main/No_Show_Dashboard.pbix"> No_Show_Dashboard</a>
 
 ---
 
