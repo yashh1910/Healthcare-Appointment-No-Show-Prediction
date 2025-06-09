@@ -63,7 +63,7 @@ Key visual insights:
 - Impact of **age**, **gender**, and **neighbourhood**
 - Slicers for custom filtering
 
-- <a href="https://github.com/yashh1910/Healthcare-Appointment-No-Show-Prediction/blob/main/No_Show_Dashboard.pbix"> No_Show_Dashboard</a>
+- <a href="https://github.com/yashh1910/Healthcare-Appointment-No-Show-Prediction/blob/main/No_Show__Dashboard.pbix"> No_Show_Dashboard</a>
 
 ---
 
